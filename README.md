@@ -1,12 +1,2 @@
-Hi I'm John P Singbah 
-I'm interested in Web development 
-I'm currently learning Html and  CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-singbah/singbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mr. Singbah here, I'm a web dev with 
+My stacks are (Javascript [react], python[fastapi, flask, KVMD]) 
